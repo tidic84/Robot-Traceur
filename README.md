@@ -38,7 +38,6 @@ Lorsqu'une commande est reçue, le robot commence à tracer la figure correspond
 2. Envoyez une lettre correspondant à la figure que vous voulez que le robot trace.
 
 ## Badges
-## Badges
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)](https://www.arduino.cc/)
 [![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=flat&logo=bluetooth&logoColor=white)](https://www.bluetooth.com/)
 [![MIT App Inventor](https://img.shields.io/badge/MIT%20App%20Inventor-FF4088?style=flat&logo=mit-app-inventor&logoColor=white)](https://appinventor.mit.edu/)
